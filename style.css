@@ -1,0 +1,15 @@
+body {
+    font-family: sans-serif;
+}
+header{
+    background-color: darkblue;
+    padding: 7px;
+}
+nav{
+    background-color: rgb(61, 123, 255)
+}
+h1{
+    color: orange;
+    border-radius: 15px;
+    border: 3px; solid;
+}
